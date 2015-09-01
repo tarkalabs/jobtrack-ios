@@ -1,0 +1,22 @@
+PODS:
+  - Eddystone (1.1.1)
+  - FontAwesome.swift (0.5.0)
+
+DEPENDENCIES:
+  - Eddystone (from `https://github.com/tarkalabs/Eddystone.git`)
+  - FontAwesome.swift
+
+EXTERNAL SOURCES:
+  Eddystone:
+    :git: https://github.com/tarkalabs/Eddystone.git
+
+CHECKOUT OPTIONS:
+  Eddystone:
+    :commit: b7dbe4a0a82a6419a2c8dbc74f997846679ef2ab
+    :git: https://github.com/tarkalabs/Eddystone.git
+
+SPEC CHECKSUMS:
+  Eddystone: b08effbc172f47eed87e9fe7ed1cfc6804309030
+  FontAwesome.swift: 0b38f996bce5478b6d3f4f41b291b7991d97c42a
+
+COCOAPODS: 0.38.2
